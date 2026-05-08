@@ -37,6 +37,13 @@
       "banReason": "Test Key",
       "userRank": "Supreme User",
       "freezeAccount": false
+    },
+    "DPMods-T3VBA6": {
+      "hwid": "B8763C974CAA6DE6",
+      "expireDate": "2026-06-03",
+      "isBanned": false,
+      "banReason": "AMASHHACKINGYT",
+      "userRank": "Supreme User"
     }
   }
 }
