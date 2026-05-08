@@ -43,6 +43,13 @@
       "isBanned": false,
       "banReason": "AMASHHACKINGYT",
       "userRank": "Supreme User"
+    },
+    "Amashcheats": {
+      "hwid": "RESET",
+      "expireDate": "2026-05-09",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
     }
   }
 }
